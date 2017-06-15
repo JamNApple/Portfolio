@@ -9,6 +9,10 @@ body {
 	margin:0;
 }
 
+.wrap {
+	max-width: 1250px;
+}
+
 #logo {
 	font-size:25px;
 	font-family: cursive;
