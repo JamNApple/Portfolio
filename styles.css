@@ -11,6 +11,12 @@ body {
 
 .wrap {
 	max-width: 1250px;
+	margin: 0 auto;
+}
+
+.entry p {
+	width: 75%;
+	margin: 0 auto;
 }
 
 #logo {
