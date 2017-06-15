@@ -24,6 +24,9 @@ body {
 .entry p {
 	width: 66%;
 	margin: 0 auto;
+	font-family: sans-serif;
+	font-size:18px;
+	line-height:32px;
 }
 
 #logo {
