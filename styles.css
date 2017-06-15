@@ -14,8 +14,15 @@ body {
 	margin: 0 auto;
 }
 
+.page-title {
+	font-size:50px;
+	font-family: sans-serif;
+	width:75%;
+	margin: 0 auto;
+}
+
 .entry p {
-	width: 75%;
+	width: 66%;
 	margin: 0 auto;
 }
 
