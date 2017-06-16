@@ -110,3 +110,11 @@ a:hover{
 #CV a:hover{
 	color:#eee;
 }
+
+.video {
+	float:left;
+}
+
+.video-description {
+	float:right;
+}
