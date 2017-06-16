@@ -61,7 +61,8 @@ body {
     font-weight: 100;
 	color:#eee;
 	float: left;
-    width: 50%;
+    width: 48%;
+    padding: 0 0 0 2%;
 }
 
 ul {
@@ -74,7 +75,8 @@ ul {
 li {
 	transition: .33s ease;
 	float:right;
-	padding: 15px 30px;
+	padding: 15px 0;
+	width:20%;
 	color:#eee;
 	font:menu;
 	font-size:18px;
