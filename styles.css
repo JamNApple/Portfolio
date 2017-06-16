@@ -111,6 +111,10 @@ a:hover{
 	color:#eee;
 }
 
+.video-entry{
+	display:flex;
+}
+
 .video {
 	float:left;
 }
