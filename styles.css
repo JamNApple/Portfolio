@@ -113,12 +113,24 @@ a:hover{
 
 .video-entry{
 	display:flex;
+	margin: 0 40px;
 }
 
 .video {
 	float:left;
 }
 
+.video iframe {
+	width:560px;
+	height:315px;
+}
+
 .video-description {
 	float:right;
+}
+
+.video-description p {
+	font-family: "Helvetica";
+	font-size:18px;
+	margin: 0px 0 0 35px;
 }
