@@ -61,11 +61,21 @@ body {
 	font-weight:100;
 }
 
-.entry h3 {
+h3 {
 	font-family:"Georgia";
 	font-size:25px;
 	width:85%;
 	margin: 15px auto 0 auto;
+}
+
+h4 {
+	font-family:"Verda";
+	font-size:45px;
+	text-align: center;
+	margin: 15px auto 0 auto;
+	color: #797;
+	font-style: italic;
+	margin:25px 0;
 }
 
 .entry h4 {
@@ -140,7 +150,7 @@ a:hover{
 
 .video-entry{
 	display:flex;
-	margin: 0 40px;
+	padding: 30px 40px 180px 40px;
 }
 
 .video {
