@@ -48,7 +48,11 @@ body {
 
 .page-title h2 {
 	margin:0;
-	padding:75px 0;
+	padding:75px 0 30px 0;
+}
+
+.entry {
+	padding: 45px 0 0 0;
 }
 
 .entry p {
@@ -132,6 +136,15 @@ a:hover{
 	text-decoration:underline;
 }
 
+.wrap a {
+	color: #c1c1e1;
+}
+
+.wrap a:hover {
+	color:#a1a1c1;
+	text-decoration: underline;
+}
+
 #logo a:hover{
 	color:#eee;
 	text-decoration: none;
@@ -188,7 +201,7 @@ a:hover{
 
 }
 
-video {
+.video-background video {
 	height:100%;
 	width:100%;
 	object-fit:cover;
