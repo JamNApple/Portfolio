@@ -181,13 +181,13 @@ a:hover{
 
 .video-description p {
 	font-family: "Helvetica";
-	font-size:18px;
+	font-size:16.5px;
 	margin: 0px 0 0 35px;
 }
 
 .video-description h2 {
 	margin: 0 0 0 35px;
-	padding: 15px 0;
+	padding: 0 0 15px 0;
 	width: 66%;
 	line-height: 1.5
 }
