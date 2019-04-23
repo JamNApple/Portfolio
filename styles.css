@@ -185,6 +185,13 @@ a:hover{
 	margin: 0px 0 0 35px;
 }
 
+.video-description h2 {
+	margin: 0 0 0 35px;
+	padding: 15px 0;
+	width: 66%;
+	line-height: 1.5
+}
+
 .game {
 	margin:0 auto;
 	width:900px;
