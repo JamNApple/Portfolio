@@ -5,7 +5,7 @@
 	overflow:auto;
 }
 
-body: not(#index) {
+body: {
 	margin:0 0 30px 0;
 }
 
